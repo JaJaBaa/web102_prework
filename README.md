@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 <img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRtOHhuemJwbjNhcXQwNmNrOHhuaW5qNnRpc2M1M2M3dXQzdHNmNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ykg6nfJzyoxg4VLXBx/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Mac built in  
+GIF created with Mac built in video
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
